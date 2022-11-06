@@ -1,16 +1,13 @@
-### Hi there 👋
+# About me 关于我
 
-<!--
-**jgwy/jgwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### As a student in computer science, I don't have much time managing my personal life but to do homework, to study codes, and to have good time with my girlfriend.
 
-Here are some ideas to get you started:
+作为一个在计算机领域的学生，我没时间管理好我的个人生活，因为要腾时间写作业、学代码，以及陪伴我的女友。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### I am major in HTML, CSS, JavaScript development.
+
+我主修 HTML、CSS、JavaScript 开发。
+
+##### Learn more about me, making friends with me is the best choice!
+
+想要了解更多，跟我交朋友才是最佳选择！
