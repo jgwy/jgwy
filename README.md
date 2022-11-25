@@ -1,8 +1,8 @@
 # About me 关于我
 
-##### As a student in computer science, I don't have much time managing my personal life but to do homework, to study codes, and to have good time with my girlfriend.
+##### As a student in computer science, I don't have much time managing my personal life but to do homework, to study codes, and to have good time with my friends and family.
 
-作为一个在计算机领域的学生，我没时间管理好我的个人生活，因为要腾时间写作业、学代码，以及陪伴我的女友。
+作为一个在计算机领域的学生，我没时间管理好我的个人生活，因为要腾时间写作业、学代码，以及陪伴我的朋友和家人。
 
 ##### I am major in HTML, CSS, JavaScript development.
 
