@@ -4,10 +4,13 @@
 
 作为一个在计算机领域的学生，我没时间管理好我的个人生活，因为要腾时间写作业、学代码，以及陪伴我的朋友和家人。
 
-##### I am major in HTML, CSS, JavaScript development.
+##### I am major in HTML, CSS, JavaScript and python development.
 
-我主修 HTML、CSS、JavaScript 开发。
+我主修 HTML、CSS、JavaScript、Python 开发。
 
-##### Learn more about me, making friends with me is the best choice!
+##### 	If you wanna learn more about me, then making friends with me is the best choice!
 
 想要了解更多，跟我交朋友才是最佳选择！
+
+### [GPG Public Key for Github Use](https://github.com/jgwy/jgwy_gpg_public)
+### （[Github 专用 GPG 公钥](https://github.com/jgwy/jgwy_gpg_public)）
