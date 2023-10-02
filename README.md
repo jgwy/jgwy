@@ -16,4 +16,5 @@
 想要了解更多，跟我交朋友才是最佳选择！
 
 ###GPG Public Key（GPG 公钥）
+
 **[Only for Github use](https://github.com/jgwy/jgwy_gpg_public)**
