@@ -2,18 +2,18 @@
 
 # About me 关于我
 
-**Student in Chemistry. Studying in Southeast University.**
+**Southeast University 29' Undergraduate in Chemistry.**
 
-我在东南大学化学专业学习。
+我是东南大学化学专业25级本科生。
 
-**Interested in frountend development like Javascript, CSS and PHP.**
+**Currently Intern at [DP Technology](https://dp.tech) as AI4S Infra Engineer and at Shanghai Innovation Institute as AI4S LLM Developer.**
 
-我主要对Javascript、CSS、PHP这些前端开发感兴趣。
+现在是深势科技 AI4S Infra 实习生、上海创智学院 AI4S 基座模型开发实习生。
 
-**Looking forward to any possible help in Chemistry, Biology and Coding.**
+**Looking forward to any possible help in Chemistry, Biology and Coding. I love AI for Science.**
 
-期待任何人在化学、生物和计算机代码方面给予帮助和指正。
+期待任何人在化学、生物和计算机代码方面给予帮助和指正。我喜欢 AI for Science。
 
-### GPG Public Key（GPG 公钥）
+### GPG Public Key
 
-**[Only for Github use](https://github.com/jgwy/jgwy_gpg_public)**
+**[For GitHub Use](https://github.com/jgwy/jgwy_gpg_public)**
